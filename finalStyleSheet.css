@@ -16,9 +16,10 @@ body {
     text-align: center;
     background-color: aquamarine;
   }
-  .center {
+  p {
+    color: navy;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    color: red;
   }
   .dropbtn {
     background-color: #04AA6D;
