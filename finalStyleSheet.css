@@ -1,29 +1,29 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(110, 66, 65);
   }
   
   h1 {
-    color: navy;
+    color: rgb(103, 6, 6);
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 200%;
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(216, 82, 77);
   }
   h2 {
-    color: blue;
+    color: rgb(103, 6, 6);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 100%;
     text-align: center;
-    background-color: aquamarine;
+    background-color: rgb(216, 82, 77);
   }
   p {
-    color: navy;
+    color: rgb(21, 4, 1);
     font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
   }
   .dropbtn {
-    background-color: #04AA6D;
-    color: white;
+    background-color: #7d3d0c;
+    color: rgb(196, 71, 71);
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -35,7 +35,7 @@ body {
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-color: #c08c8c;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
@@ -48,4 +48,4 @@ body {
   }
   .dropdown-content a:hover {background-color: #ddd;}
   .dropdown:hover .dropdown-content {display: block;}
-  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+  .dropdown:hover .dropbtn {background-color: #8e3e3e;}
