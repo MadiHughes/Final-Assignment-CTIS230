@@ -19,6 +19,7 @@ body {
   p {
     color: rgb(21, 4, 1);
     font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
     text-align: center;
   }
   .dropbtn {
