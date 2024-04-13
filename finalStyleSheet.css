@@ -63,3 +63,7 @@ body {
     clear: both;
     display: table;
   }
+  img#Selfie  {
+    float: right;
+    margin: 1em;
+}
