@@ -19,8 +19,10 @@ body {
   p {
     color: rgb(21, 4, 1);
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: larger;
     text-align: center;
+    margin-right: 5em;
+    margin-left: 5em;
   }
   .dropbtn {
     background-color: rgb(216, 82, 77);
@@ -54,7 +56,7 @@ body {
   
   .column {
     float: left;
-    width: 20%;
+    width: 15%;
     padding: 100px;
   }
   
@@ -67,3 +69,7 @@ body {
     float: right;
     margin: 1em;
   }
+  video {
+    display: block;
+    margin: 0 auto;
+}
